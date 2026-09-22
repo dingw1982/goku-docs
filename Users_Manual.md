@@ -1741,7 +1741,6 @@ IRA_API_TOKEN=your-token                                  # 可选
 |------|------|
 | `get_stock_price` | 全球股票、ETF、指数、加密货币实时行情（Yahoo Finance） |
 | `send_market_report` | 生成并发送每日市场动态报告 |
-| `baiwu_daily_report` | 百悟商机情报（电信/银行/金融科技/采购/竞争对手/政策） |
 | `jp_stock_trading` | 日本股市分析与交易信号生成 |
 
 **无需额外配置即可查询股价。**
@@ -1850,7 +1849,6 @@ POST /api/v1/skills/install                  # 安装技能包
 |------|------|
 | `send_market_report` | 生成并发送市场动态日报（邮件） |
 | `send_ir_report` | 生成并发送 IR 投资日报（邮件） |
-| `baiwu_daily_report` | 生成百悟业务日报 |
 
 ### 日本股票分析
 | 工具 | 功能 |

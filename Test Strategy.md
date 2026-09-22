@@ -205,8 +205,6 @@ pytest backend/tests/test_auth_router.py \
 | `test_user_preferences.py` | 22 | 用户偏好设置 |
 | `test_cost_export.py` | 19 | 费用导出 |
 | `test_llm_provider_tool_normalization.py` | 3 | LLM 工具参数标准化 |
-| `test_baiwu_daily_report_tool.py` | 2 | 百务日报工具 |
-| `test_baiwu_monitor_source_coverage.py` | 6 | 百务监控源覆盖率 |
 | `test_workspace_cleanup.py` | 2 | 工作区清理 |
 | `test_workspace_username.py` | 10 | 工作区用户名隔离 |
 | `test_file_parser_s3_integration.py` | 7 | 文件解析 S3 集成 |
